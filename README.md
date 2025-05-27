@@ -1,11 +1,11 @@
 # FrontEndTT-web
 
 ¡Bienvenido al repositorio **FrontEndTT-web**!  
-Este proyecto ha sido desarrollado como parte de prácticas de desarrollo web, utilizando tecnologías fundamentales como HTML, CSS y JavaScript. El objetivo principal es aplicar y demostrar habilidades en diseño responsivo y animaciones, creando interfaces de usuario atractivas y funcionales.
+Este proyecto se esta desarrollado como parte de prácticas de front-end de TalentoTech, utilizando tecnologías fundamentales como HTML, CSS y JavaScript. El objetivo principal es aplicar y demostrar habilidades en diseño responsivo y animaciones, creando interfaces de usuario atractivas y funcionales.
 
 ## 🧩 Descripción
 
-Este sitio web está estructurado para ofrecer una experiencia de usuario fluida y adaptativa. Incluye diversas secciones que muestran el uso de:
+Este sitio web se está estructurando para ofrecer una experiencia de usuario fluida y adaptativa. Incluyendo diversas secciones que muestren el uso de:
 
 - **HTML5** para la estructura semántica del contenido.
 - **CSS3** para estilos visuales y diseño responsivo.
